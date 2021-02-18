@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Tn.Sha256.Demo.Services
+namespace Tn.Sha256.Api.Services
 {
     public interface ICacheService
     {
